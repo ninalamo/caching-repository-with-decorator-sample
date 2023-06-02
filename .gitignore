@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/caching-with-decorator-sample/WebApplication1/.vs/WebApplication1
+/caching-with-decorator-sample/WebApplication1/bin/Debug/net7.0
+/caching-with-decorator-sample/WebApplication1/obj
